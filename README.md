@@ -47,6 +47,6 @@ Acknowledgments
 This project was inspired by the need for a simple calculator in web development projects.
 Thanks to the contributors of open-source libraries and resources used in this project.
 Contact
-If you have any questions, suggestions, or issues regarding this project, feel free to contact me at [your-email@example.com].
+If you have any questions, suggestions, or issues regarding this project, feel free to contact me at ankitjha1403@gmail.com.
 
 Happy calculating!
