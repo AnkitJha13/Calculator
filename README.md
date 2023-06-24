@@ -4,14 +4,14 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. It pr
 
 # Features
 
-Addition: Allows users to add numbers.
-Subtraction: Allows users to subtract numbers.
-Multiplication: Allows users to multiply numbers.
-Division: Allows users to divide numbers.
-Clear: Clears the calculator's display and resets the input.
+- Addition: Allows users to add numbers.
+- Subtraction: Allows users to subtract numbers.
+- Multiplication: Allows users to multiply numbers.
+- Division: Allows users to divide numbers.
+- Clear: Clears the calculator's display and resets the input.
 
 
-Getting Started
+# Getting Started
 To use the calculator project, follow these steps:
 
 Clone the repository or download the project files.
