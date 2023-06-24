@@ -38,15 +38,9 @@ If you want to customize the calculator's appearance or add additional functiona
 - script.js: Implements the calculator's functionality using JavaScript.
 - Feel free to explore and make changes based on your needs.
 
-# License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code for both personal and commercial purposes.
-
 ## Acknowledgments
 
-This project was inspired by the need for a simple calculator in web development projects.
-Thanks to the contributors of open-source libraries and resources used in this project.
-Contact
-If you have any questions, suggestions, or issues regarding this project, feel free to contact me at ankitjha1403@gmail.com.
+- This project was inspired by the need for a simple calculator in web development projects.
+- If you have any questions, suggestions, or issues regarding this project, feel free to contact me at ankitjha1403@gmail.com.
 
 Happy calculating!
