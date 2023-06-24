@@ -2,7 +2,7 @@
 
 This is a simple calculator project built using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Features
+# Features
 
 Addition: Allows users to add numbers.
 Subtraction: Allows users to subtract numbers.
