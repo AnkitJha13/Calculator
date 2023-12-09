@@ -2,6 +2,9 @@
 
 This is a simple calculator project built using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Website Link
+You can access the Random Quote Generator by following this link : [Random Quote Generator](https://ankitjha13.github.io/Calculator/)
+
 # Features
 
 - Addition: Allows users to add numbers.
